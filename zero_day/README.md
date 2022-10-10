@@ -1,1 +1,1 @@
-Writing a small *MARKDOWN* text
+**This file is mandatory in projects**
